@@ -19,7 +19,7 @@ Modelin yapısal bilgileri:
 - Evrişim katmanları
 - Havuzlama katmanları
 - Tam bağlantılı (fully connected) katmanlar
-- Aktivasyon fonksiyonları
+- Aktivasyon fonksiyonları  
 
 ### Eğitim
 
