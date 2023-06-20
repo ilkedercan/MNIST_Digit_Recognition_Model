@@ -3,7 +3,7 @@
 
 Bu proje, MNIST veri seti üzerinde sayı tanıma için bir model geliştirmeyi amaçlamaktadır. Proje, Evrişimli Sinir Ağı (Convolutional Neural Network, CNN) yöntemini kullanarak, sayıları doğru bir şekilde tanımak için bir öğrenme modeli oluşturmaktadır.
 
-## İsim: John Doe
+## İsim: İlke Dercan
 ## Model Yöntemi: Evrişimli Sinir Ağı (Convolutional Neural Network, CNN)
 
 ### Veri Seti
